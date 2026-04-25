@@ -104,12 +104,6 @@ olist-ecommerce-analysis/
 
 ---
 
-## Next Steps
-
-- [x] Export all query results as CSVs to `/data/`
-- [x] Build Tableau Public dashboard (Revenue · Categories · Geography · Satisfaction)
-- [x] Dashboard published on Tableau Public
-
 ## Dashboard
 
 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Tableau_Olist_Dashboard/OlistDashboard)**
