@@ -106,9 +106,15 @@ olist-ecommerce-analysis/
 
 ## Next Steps
 
-- [ ] Export all query results as CSVs to `/data/`
-- [ ] Build Tableau Public dashboard (Revenue · Categories · Geography · Satisfaction)
-- [ ] Add Tableau link here once published
+- [x] Export all query results as CSVs to `/data/`
+- [x] Build Tableau Public dashboard (Revenue · Categories · Geography · Satisfaction)
+- [x] Dashboard published on Tableau Public
+
+## Dashboard
+
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Tableau_Olist_Dashboard/OlistDashboard)**
+
+The dashboard includes all 6 analyses: monthly revenue trend, top product categories, revenue by Brazilian state, payment method distribution, credit card installment behavior, delivery speed vs. customer satisfaction, and customer value segmentation.
 
 ---
 
